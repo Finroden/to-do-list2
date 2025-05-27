@@ -8,11 +8,11 @@ A simple, clean, and responsive To-Do List app built with vanilla HTML, CSS, and
 
 ✨ Features
 
-➕ Add new tasks
-✅ Mark tasks as completed
-❌ Remove tasks
-💾 Automatically saves tasks using localStorage
-📱 Fully responsive layout
+➕ Add new tasks<br>
+✅ Mark tasks as completed<br>
+❌ Remove tasks<br>
+💾 Automatically saves tasks using localStorage<br>
+📱 Fully responsive layout<br>
 
 
 🚀 Getting Started
