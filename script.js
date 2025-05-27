@@ -36,4 +36,4 @@ function showTask(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
 
-showTask();console.log('Happy developing ✨')
+showTask();
