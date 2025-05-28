@@ -45,6 +45,6 @@ open index.html
 
 🛠 Built With
 
-HTML5
-CSS3
-JavaScript
+HTML5<br>
+CSS3<br>
+JavaScript<br>
