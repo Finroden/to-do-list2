@@ -21,7 +21,7 @@ To run the project locally:
 
 1. Clone the repository:
 <pre><code>
-  git clone https://github.com/yourusername/todo-list.git
+  git clone https://github.com/Finroden/todo-list.git
 </code></pre>
 
 2. Open the index.html file in your browser:
